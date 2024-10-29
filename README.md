@@ -1,7 +1,6 @@
 # Python Compiler
-
-**Author:** Deepanshu (210310)  
-**Contributors:**  
+**Contributors:** 
+- Deepanshu (210310) 
 - Ujjwal Gautam (211122)  
 - Nirmal Prajapati (210735)  
 
